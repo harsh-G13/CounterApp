@@ -2,7 +2,7 @@
 This is a counter app made using Reactjs. Have a look on its design!!
 
 To run this project locally, follow these steps:
-![Screenshot of My Site](public\counterApp.jpg)
+![Screenshot of My Site](/public/counterApp.jpg)
 
 1. Clone the repository.
 2. Install dependencies with `npm install`.
